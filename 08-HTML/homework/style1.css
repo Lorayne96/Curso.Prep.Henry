@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://img.vixdata.io/pd/webp-large/es/sites/default/files/btg/curiosidades.batanga.com/files/91633822_2.jpg);
+    background-size: cover;
+    color: cornsilk;
+}
+h1{
+    display:flex;
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+h3{
+    display:flex;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);  
+}
+ol{
+    display:flex;
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
